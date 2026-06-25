@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Raghavendra Ganiga 👋
 
-<!--
-**Raghavendra109/Raghavendra109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+🐍 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Machine Learning Enthusiast
+
+🌐 Flask Developer
+
+📊 Data Science Learner
+
+## Skills
+- Python
+- Flask
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- OpenCV
+- GitHub
+
+## Projects
+
+### AI-Based Face Counting System
+Real-time face detection and counting using Python and OpenCV.
+
+### Event Management System
+Full-stack web application built using Flask, HTML, CSS, JavaScript, and SQLite.
+
+### Data Analysis Project
+Data cleaning, analysis, and visualization using Pandas and Matplotlib.
+
+### Machine Learning Project
+Predictive machine learning models using Scikit-learn.
+
+## Certifications
+- Placement & Soft Skills Training Program
+- WordPress Web Development Workshop
+- WordPress Campus Connect Event
+- Magic Bus Connect with Work Programme
+
+## Contact
+📍 India 8861937273
