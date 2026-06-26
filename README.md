@@ -13,6 +13,7 @@
 
 ## Skills
 - Python
+-java
 - Flask
 - SQL
 - Pandas
@@ -32,13 +33,10 @@ Full-stack web application built using Flask, HTML, CSS, JavaScript, and SQLite.
 ### Data Analysis Project
 Data cleaning, analysis, and visualization using Pandas and Matplotlib.
 
-### Machine Learning Project
-Predictive machine learning models using Scikit-learn.
 
 ## Certifications
 - Placement & Soft Skills Training Program
 - WordPress Web Development Workshop
-- WordPress Campus Connect Event
 - Magic Bus Connect with Work Programme
 
 ## Contact
