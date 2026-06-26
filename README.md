@@ -1,4 +1,4 @@
-# Hi, I'm Raghavendra Ganiga 👋
+# Hi, I'm Raghavendra Ganiga 
 
 ## About Me
 🎓 BCA Graduate
